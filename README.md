@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svitlana1209
-- 👀 I’m interested in networking programming and AI/ML
+- 👀 I’m interested in network programming and AI/ML
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on Networking & System Programming
+- 💞️ I’m looking to collaborate on Network & System Programming
 - 📫 How to reach me: righoor8@gmail.com
 
 <!---
